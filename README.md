@@ -1,4 +1,4 @@
 # Praktikum-Pemograman-Web-2
 
-<h1>NAMA : MUHAMMAD RAIHAN MAULANA<h1> <br>
-<h1>NIM  : 2110817210016<h1>
+<h3>NAMA : MUHAMMAD RAIHAN MAULANA<h3> <br>
+<h3>NIM  : 2110817210016<h3>
